@@ -1,1 +1,2 @@
 # CDJCC_Picture_Frame
+成都锦城学院校庆头像框微信小程序
